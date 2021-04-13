@@ -1,7 +1,7 @@
 /* eslint-disable */
 import axios from 'axios';
 
-const API_URL = 'https://efs-vue-assign4.herokuapp.com/';
+const API_URL = 'https://efs-vue-assign4.herokuapp.com';
 export class APIService {
   constructor() {
 
